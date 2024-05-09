@@ -8,7 +8,7 @@ public class Exercicio13 {
 		Scanner scan = new Scanner (System.in);
 		int opcao;
         int num1, num2;// teste git
-        
+        //test git2
         do {
             System.out.println("Menu:");
             System.out.println("1 – Soma");
