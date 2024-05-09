@@ -7,7 +7,7 @@ public class Exercicio13 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner (System.in);
 		int opcao;
-        int num1, num2;
+        int num1, num2;// teste git
         
         do {
             System.out.println("Menu:");
