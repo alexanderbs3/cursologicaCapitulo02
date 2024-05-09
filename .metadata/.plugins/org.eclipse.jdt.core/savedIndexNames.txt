@@ -1,9 +1,0 @@
-INDEX VERSION 1.134+C:\Users\Sandro Guimarães\eclipse-workspace\cursologicaCapitulo02\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-4173359461.index
-702615578.index
-1225722337.index
-1163957525.index
-3353887418.index
-2573210477.index
-3534850732.index
